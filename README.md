@@ -11,9 +11,9 @@
 
 
 ## 文件格式
-- 编码      GB2312
-- 行尾      CRLF
-- 文件名    IDM激活汉化版.cmd
+- 编码      `GB2312`
+- 行尾      `CRLF`
+- 文件名    `IDM.cmd`
 - 如果下载的 `IDM.cmd` 文件无法运行，请使用 [Visual Studio Code](https://code.visualstudio.com/) 或 [Notepad++](https://notepad-plus-plus.org/) 修改文件编码和行尾
 
 
@@ -42,21 +42,10 @@
 请查看 [帮助页面](https://github.com/lstprjct/IDM-Activation-Script/wiki/IAS-Help#troubleshoot) 以获取更多帮助。
 
 
-## 视频教程
-1111
-<video width="800" controls>
-  <source src="png/IDM.mp4" type="video/mp4">
-  浏览器不支持播放，请<a href="png/IDM.mp4">下载视频</a>。
-</video>
+## [视频教程](https://github.com/jarocheng0123/IDM-CN/blob/main/png/IDM.mp4)
 
-2222
 <!-- 基础版：自适应宽度，带播放控件 -->
 <video src="https://private-user-images.githubusercontent.com/62201503/559080911-010efa70-d281-4fc2-810d-359b13697a18.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI3ODIzMDMsIm5iZiI6MTc3Mjc4MjAwMywicGF0aCI6Ii82MjIwMTUwMy81NTkwODA5MTEtMDEwZWZhNzAtZDI4MS00ZmMyLTgxMGQtMzU5YjEzNjk3YTE4Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA2VDA3MjY0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRjYjg4NDZkMWYzZjVlZTIxNmM1ODA2MzI4ZTJhNjFiZGYyNjhmNjc4MzFkYTUxMWVkYjllYjEzYzEzZjJmZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.biFp-nvxOQfXPKgZ2_ccXhfrTOfEJPY9iF2pzS1xmKU" controls="controls" style="max-width:100%;">
-你的浏览器不支持video标签，请更换现代浏览器查看
-</video>
-3333
-<!-- 进阶版：固定尺寸（宽800px），静音自动播放，循环 -->
-<video src="你的视频链接" controls autoplay muted loop width="800" style="max-width:100%;">
 你的浏览器不支持video标签，请更换现代浏览器查看
 </video>
 
@@ -115,7 +104,6 @@
 ### 最大连接数
 
 <img src="png/连接.png" width="50%">
-
 
 
 ## 免责声明
