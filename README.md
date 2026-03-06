@@ -2,9 +2,6 @@
 
 这是一个汉化版的IDM激活脚本，用于激活和重置 [Internet Download Manager](https://www.internetdownloadmanager.com/) 的试用版。本脚本参考了 [IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) 的代码并进行了汉化处理。
 
-<a href="https://download.internetdownloadmanager.com/idman642build62.exe" style="background-color: #359167; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: bold; margin-right: 10px;">TRY IDM 30-DAYS FREE TRIAL</a>
-<a href="https://github.com/jarocheng0123/IDM-CN/releases/tag/IDM1.2" style="background-color: #a7b0b9; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: bold;">IDM激活汉化脚本</a>
-
 
 ## 特性
 - **IDM冻结试用和激活**：通过注册表键锁定方法实现。
@@ -46,10 +43,21 @@
 
 
 ## 视频教程
-
+1111
 <video width="800" controls>
   <source src="png/IDM.mp4" type="video/mp4">
   浏览器不支持播放，请<a href="png/IDM.mp4">下载视频</a>。
+</video>
+
+2222
+<!-- 基础版：自适应宽度，带播放控件 -->
+<video src="https://private-user-images.githubusercontent.com/62201503/559080911-010efa70-d281-4fc2-810d-359b13697a18.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI3ODIzMDMsIm5iZiI6MTc3Mjc4MjAwMywicGF0aCI6Ii82MjIwMTUwMy81NTkwODA5MTEtMDEwZWZhNzAtZDI4MS00ZmMyLTgxMGQtMzU5YjEzNjk3YTE4Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA2VDA3MjY0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRjYjg4NDZkMWYzZjVlZTIxNmM1ODA2MzI4ZTJhNjFiZGYyNjhmNjc4MzFkYTUxMWVkYjllYjEzYzEzZjJmZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.biFp-nvxOQfXPKgZ2_ccXhfrTOfEJPY9iF2pzS1xmKU" controls="controls" style="max-width:100%;">
+你的浏览器不支持video标签，请更换现代浏览器查看
+</video>
+3333
+<!-- 进阶版：固定尺寸（宽800px），静音自动播放，循环 -->
+<video src="你的视频链接" controls autoplay muted loop width="800" style="max-width:100%;">
+你的浏览器不支持video标签，请更换现代浏览器查看
 </video>
 
 
@@ -115,8 +123,3 @@
 本仓库所提供的脚本、代码、文档及相关资源，**仅供学习、研究与技术交流使用**，**严禁用于商业用途、非法用途或任何侵犯他人合法权益的行为**。
 使用本项目内容即表示您**自愿承担全部风险**，作者及贡献者**不对因使用本项目导致的任何直接或间接损失承担责任**。
 请支持正版软件，自觉遵守相关软件的用户许可协议及国家法律法规。
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=jarocheng0123/IDM-CN&type=Date)](https://star-history.com/#jarocheng0123/IDM-CN&Date)
