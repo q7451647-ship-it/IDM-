@@ -67,6 +67,7 @@
 
 <img src="png/1.png" width="50%">
 
+
 ## 验证激活
 
 <img src="png/4.png" width="50%">
@@ -102,7 +103,7 @@
 | 方法 | 是否有效 | 操作难度 | 安全风险 | 实际影响 |
 | ---- | -------- | -------- | -------- | -------- |
 | 购买官方正版 | ✅ 有效 | 低 | 无风险 | 永久激活无弹窗，全功能正常使用，支持更新与官方服务 |
-| 开源激活脚本 | ✅ 有效 | 低 | 较低（杀毒软件可能误报） | 激活稳定，下载、嗅探等核心功能无影响，大版本更新后可能失效 |
+| 开源激活脚本 | ✅ 有效 | 低 | 较低 | 激活稳定，下载、嗅探等核心功能无影响，大版本更新后可能失效 |
 | 防火墙禁止 IDM 联网 | ⚠️ 辅助有效 | 中 | 无风险 | 仅阻断校验与更新，不影响下载、嗅探等所有核心功能 |
 | 禁用 IDM 自动更新 | ⚠️ 辅助有效 | 低 | 无风险 | 防止激活被更新覆盖，不影响现有功能，仅无法自动升级 |
 | 删除 IDM 注册表残留 | 🚫 临时有效 | 中 | 较低 | 仅重置30天试用，不删除任务，无权限时仅操作失败 |
@@ -133,3 +134,14 @@
 本仓库所提供的脚本、代码、文档及相关资源，**仅供学习、研究与技术交流使用**，**严禁用于商业用途、非法用途或任何侵犯他人合法权益的行为**。
 使用本项目内容即表示您**自愿承担全部风险**，作者及贡献者**不对因使用本项目导致的任何直接或间接损失承担责任**。
 请支持正版软件，自觉遵守相关软件的用户许可协议及国家法律法规。
+
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=jarocheng0123%2FIDM-CN&type=timeline&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=jarocheng0123/IDM-CN&type=timeline&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=jarocheng0123/IDM-CN&type=timeline&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=jarocheng0123/IDM-CN&type=timeline&legend=top-left" />
+ </picture>
+</a>
